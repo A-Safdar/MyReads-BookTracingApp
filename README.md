@@ -8,7 +8,7 @@ Of course, you are free to start this project from scratch if you wish! Just be 
 
 To run the app:
 
-* clone this git repo: `git clone `
+* clone this git repo: `git clone https://github.com/A-Safdar/MyReads-BookTracingApp.git`
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
